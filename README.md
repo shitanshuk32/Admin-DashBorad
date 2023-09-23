@@ -22,3 +22,11 @@ This project utilizes the following technologies and packages:
 - **Sass** - A popular CSS preprocessor for adding features like variables, nesting, and mixins to your stylesheets.
 
 ## Features
+
+1. **Visual Data Representation:** The project uses a variety of charts and graphs to present data visually, making it easy for users to understand complex information.
+
+2. **Quick Overview:** Users can quickly access essential metrics and highlights at the top of the dashboard, facilitating rapid insights into critical data points.
+
+3. **Comprehensive Insights:** Detailed user statistics, product performance metrics, conversion rates, and revenue analysis are provided, enabling businesses to make data-driven decisions and track performance effectively.
+
+
