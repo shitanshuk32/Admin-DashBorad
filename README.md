@@ -1,6 +1,6 @@
-# Admin Dashboard UI
+# Admin Dashboard 
 
-![Admin Dashboard UI Screenshot](screenshot.png)
+<img width="847" alt="admin-ui-img" src="https://github.com/shitanshuk32/Admin-Dashboard/assets/86796224/8b368a3b-0af3-43da-aa74-c99dcbc6bfbe">
 
 ## Overview
 
